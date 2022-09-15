@@ -1,0 +1,49 @@
+{
+  "packages": [
+    {
+      "name": "badassmidi",
+      "maintainer": "BadassMIDI.com",
+      "websiteURL": "http://badassmidi.com",
+      "email" : "thumb-ciphers.0h@icloud.com",
+      "platforms":
+      [
+        {
+          "name": "BMC for Teensy",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "deprecated": false,
+          "category": "Contributed",
+          "url": "https://github.com/neroroxxx/BMC/archive/refs/tags/v1.6.2.tar.gz",
+          "archiveFileName": "v1.6.2.tar.gz",
+          "checksum": "SHA-256:dc53e73d269656bbb83c019cdfa4c669e5086b7b782aeb19421e8d75e3daa973",
+          "size": "3778754",
+          "boards": [
+            {
+              "name": "Teensy 4.1 (BMC)"
+            },
+            {
+              "name": "Teensy MicroMod (BMC)"
+            },
+            {
+              "name": "Teensy 4.0 (BMC)"
+            },
+            {
+              "name": "Teensy 3.6 (BMC)"
+            },
+            {
+              "name": "Teensy 3.5 (BMC)"
+            },
+            {
+              "name": "Teensy 3.2 (BMC)"
+            }
+          ],
+          "help": {
+            "online": "http://badassmidi.com"
+          }
+        }
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
