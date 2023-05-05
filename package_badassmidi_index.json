@@ -16,7 +16,7 @@
           "url": "https://github.com/neroroxxx/avr/archive/refs/tags/v1.1.0.tar.gz",
           "archiveFileName": "avr-1.1.0.tar.gz",
           "checksum": "SHA-256:dfb61b3b8ac17e313c6d046ccdcfcba992d66bf8e7d1d607ba5428aa0cdfa5e5",
-          "size": "6989",
+          "size": "7001",
           "boards": [
             {
               "name": "Teensy 4.1 (BMC)"
