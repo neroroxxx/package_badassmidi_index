@@ -14,7 +14,7 @@
           "deprecated": false,
           "category": "Contributed",
           "url": "https://github.com/neroroxxx/avr/archive/refs/tags/v1.58.1.zip",
-          "archiveFileName": "avr-1.1.0.tar.gz",
+          "archiveFileName": "v1.58.1.zip",
           "checksum": "SHA-256:05b9881b9324061f8322a6e380f486f159d5d22a3837367625c5387a1d1761d8",
           "size": "7176",
           "boards": [
