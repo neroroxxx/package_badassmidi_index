@@ -10,13 +10,13 @@
         {
           "name": "BMC for Teensy",
           "architecture": "avr",
-          "version": "1.58.1",
+          "version": "1.59.0",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/neroroxxx/avr/archive/refs/tags/v1.58.1.zip",
-          "archiveFileName": "v1.58.1.zip",
-          "checksum": "SHA-256:05b9881b9324061f8322a6e380f486f159d5d22a3837367625c5387a1d1761d8",
-          "size": "7176",
+          "url": "https://github.com/neroroxxx/avr/archive/refs/tags/v1.59.0.zip",
+          "archiveFileName": "v1.59.0.zip",
+          "checksum": "SHA-256:488dc565b0e6c2119a167c910b132aa4dee593b3524600547254585f2a9f7faa",
+          "size": "7181",
           "boards": [
             {
               "name": "Teensy 4.1 (BMC)"
